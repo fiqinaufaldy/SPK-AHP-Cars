@@ -1,0 +1,15 @@
+front end (HTML,CSS)
+back end (PHP,Java,Database)
+framework css->semantic
+index dasboard ui
+index home ui
+perancangan database
+konfigurasi database
+fix	-rumus
+	-bug
+menu
+desain sesuai tema skripsi
+open request
+price full stack developer 
+1.200.000
+BNI = 1150105403
