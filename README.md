@@ -9,8 +9,8 @@ Simple decision support system application with AHP method.
 
 ## Screenshot
 
-<img src="screenshot/1.png" alt="halaman kriteria" style="width: 250px;"/>
+<img src="home/images/SS-1.PNG" alt="halaman kriteria" style="width: 250px;"/>
 
-<img src="screenshot/2.png" alt="matriks nilai kriteria" style="width: 250px;"/>
+<img src="home/images/SS-2.PNG" alt="matriks nilai kriteria" style="width: 250px;"/>
 
-<img src="screenshot/3.png" alt="hasil perhitungan" style="width: 250px;"/># spk-ahp-mobil
+<img src="home/images/SS-3.PNG" alt="hasil perhitungan" style="width: 250px;"/># spk-ahp-mobil
